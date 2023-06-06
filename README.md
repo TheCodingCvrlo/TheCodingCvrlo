@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheCodingCvrlo
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Rstudio
-- 💞️ I’m looking to collaborate on any interesting python project
+- 👀 I’m interested in Data Science, AI
+- 🌱 I’m currently writing my Bachelor Thesis
+- 💞️ I’m looking to collaborate on any project/hackathon!
 - 📫 carlopatti1@gmail.com
      
 
