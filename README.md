@@ -1,15 +1,8 @@
 - 👋 Hi, I’m @TheCodingCvrlo
 - 👀 I’m interested in Data Science, AI
-- 🌱 I’m currently writing my Bachelor Thesis
 - 💞️ I’m looking to collaborate on any project/hackathon!
 - 📫 carlopatti1@gmail.com
      
-
-<!---
-TheCodingCvrlo/TheCodingCvrlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 **Languages and Tools:**
 
@@ -21,3 +14,8 @@ You can click the Preview link to take a look at your changes.
 <code><img height="60" src="https://github.com/pytorch/pytorch/blob/main/docs/source/_static/img/pytorch-logo-dark.png?raw=true"></code>
 
 ![TheCodingCvrlo's github stats](https://github-readme-stats.vercel.app/api?username=thecodingcvrlo&show_icons=true&hide_border=true&theme=dark)
+
+<!---
+TheCodingCvrlo/TheCodingCvrlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
